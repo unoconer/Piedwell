@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://piedwell.netlify.app', // no trailing slash
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'g3kWIsnEjBk5jmVmrhXnT16U0T5yUdhIbNE_MS2drwE', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
